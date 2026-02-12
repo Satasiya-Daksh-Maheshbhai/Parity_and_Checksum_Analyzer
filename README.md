@@ -156,3 +156,6 @@ Developed as a Computer Networks academic project.
 # ⭐ Conclusion
 
 Parity and Checksum Analyzer provides a clear and practical demonstration of classical error detection techniques used in digital communication systems. It helps students understand how redundancy ensures data integrity during transmission.
+# Sample Output :
+<img width="927" height="903" alt="image" src="https://github.com/user-attachments/assets/946093d3-f907-4b47-a62b-eb9e70755af5" />
+<img width="988" height="787" alt="image" src="https://github.com/user-attachments/assets/0789b0ec-f4ff-4cc3-bf3d-26b20cbf415f" />
