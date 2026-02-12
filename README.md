@@ -107,7 +107,7 @@ Parity_and_Checksum_Analyzer/
 git clone https://github.com/Satasiya-Daksh-Maheshbhai/Parity_and_Checksum_Analyzer.git
 
 ## 2️⃣ Go to Project Folder
-cd main
+cd Parity_and_Checksum_Analyzer
 
 ## 3️⃣ Install Django
 pip install django
